@@ -1,6 +1,6 @@
 package com.bcopstein.CtrlCorredorV1;
 
-public class Corredor {
+public class Corredor{
     private String cpf;
     private String nome;
     private int diaDn,mesDn,anoDn;
